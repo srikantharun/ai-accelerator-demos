@@ -107,7 +107,7 @@ This notebook demonstrates customer segmentation, ad performance prediction, and
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/xyz-semiconductor/ai-accelerator-demos.git
+git clone https://github.com/ai-accelerator-demos.git
 cd ai-accelerator-demos
 ```
 
